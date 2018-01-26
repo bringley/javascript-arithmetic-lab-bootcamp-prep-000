@@ -10,6 +10,7 @@ function subtract(a, b) {
   return result
 }
 
+//multiply(a, b) multiplies two numbers and returns the result
 multiply() {
   
 }
