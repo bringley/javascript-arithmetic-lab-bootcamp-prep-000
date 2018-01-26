@@ -4,8 +4,10 @@ add(a, b) {
   return result;
 }
 
-subtract() {
-  
+//subtract(a, b) subtracts b from a and returns the result
+subtract(a, b) {
+  result = a - b
+  return result;
 }
 
 multiply() {
