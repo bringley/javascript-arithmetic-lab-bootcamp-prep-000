@@ -17,7 +17,7 @@ function multiply(a, b) {
 }
 
 //divide(a, b) divides a by b and returns the result
-function divide() {
+function divide(a, b) {
   var result = a / b
   return result
 }
