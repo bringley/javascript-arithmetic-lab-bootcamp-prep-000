@@ -35,3 +35,11 @@ function dec(n) {
   var result = n -= 1
   return result
 }
+
+//makeInt(n) parses n as an integer and returns the parsed integer
+function makeInt(n){
+  var result = parseInt(n)
+  return result
+}
+
+//
