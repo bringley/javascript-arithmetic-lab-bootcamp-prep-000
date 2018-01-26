@@ -24,12 +24,12 @@ function divide(a, b) {
 
 //inc(n) increments n and returns the result
 function inc(n) {
-  var result = n++
+  var result = ++n
   return result
 }
 
 //dec(n) decrements n and returns the result
 function dec(n) {
-  var result = n--
+  var result = --n
   return result
 }
