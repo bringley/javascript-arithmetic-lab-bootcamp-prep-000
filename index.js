@@ -6,18 +6,18 @@ function add(a, b) {
 
 //subtract(a, b) subtracts b from a and returns the result
 function subtract(a, b) {
-  result = a - b
+  var result = a - b
   return result
 }
 
 //multiply(a, b) multiplies two numbers and returns the result
 function multiply(a, b) {
-  result = a * b
+  var result = a * b
   return result
 }
 
 //divide(a, b) divides a by b and returns the result
 function divide() {
-  result = a / b
+  var result = a / b
   return result
 }
