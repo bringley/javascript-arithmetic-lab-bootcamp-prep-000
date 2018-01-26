@@ -1,13 +1,13 @@
 //add(a, b) adds two numbers and returns the result
-add(a, b) {
+function add(a, b) {
   result = a + b
-  return result;
+  return result
 }
 
 //subtract(a, b) subtracts b from a and returns the result
-subtract(a, b) {
+function subtract(a, b) {
   result = a - b
-  return result;
+  return result
 }
 
 multiply() {
