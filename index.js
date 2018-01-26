@@ -1,6 +1,6 @@
 //add(a, b) adds two numbers and returns the result
 function add(a, b) {
-  result = a + b
+  var result = a + b
   return result
 }
 
