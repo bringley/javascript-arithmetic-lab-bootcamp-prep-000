@@ -11,10 +11,13 @@ function subtract(a, b) {
 }
 
 //multiply(a, b) multiplies two numbers and returns the result
-multiply() {
-  
+function multiply(a, b) {
+  result = a * b
+  return result
 }
 
+//divide(a, b) divides a by b and returns the result
 divide() {
-  
+  result = a / b
+  return result
 }
